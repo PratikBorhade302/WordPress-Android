@@ -4526,4 +4526,35 @@
             column="5"/>
     </issue>
 
+    <issue
+        id="Instantiatable"
+        severity="Fatal"
+        message="`LoginWpcomService` must extend android.app.Service"
+        category="Correctness"
+        priority="6"
+        summary="Registered class is not instantiatable"
+        explanation="Activities, services, broadcast receivers etc. registered in the manifest file (or for custom views, in a layout file) must be &quot;instantiatable&quot; by the system, which means that the class must be public, it must have an empty public constructor, and if it&apos;s an inner class, it must be a static inner class."
+        errorLine1="            android:name=&quot;.login.LoginWpcomService&quot;"
+        errorLine2="                          ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="../WordPress/src/main/AndroidManifest.xml"
+            line="758"
+            column="27"/>
+    </issue>
+
+    <issue
+        id="Instantiatable"
+        severity="Fatal"
+        message="`SiteCreationService` must extend android.app.Service"
+        category="Correctness"
+        priority="6"
+        summary="Registered class is not instantiatable"
+        explanation="Activities, services, broadcast receivers etc. registered in the manifest file (or for custom views, in a layout file) must be &quot;instantiatable&quot; by the system, which means that the class must be public, it must have an empty public constructor, and if it&apos;s an inner class, it must be a static inner class."
+        errorLine1="            android:name=&quot;.ui.sitecreation.services.SiteCreationService&quot;"
+        errorLine2="                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="../WordPress/src/main/AndroidManifest.xml"
+            line="763"
+            column="27"/>
+    </issue>
 </issues>
