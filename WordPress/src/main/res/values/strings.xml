@@ -1698,7 +1698,7 @@
     <string name="reader_following_display_name">Following</string>
 
     <!-- timespan shown for posts/comments published within the past 60 seconds -->
-    <string name="timespan_now">now</string>
+    <string name="timespan_now" tools:ignore="UnusedResources">now</string>
 
     <!-- title shown for untitled posts and blogs -->
     <string name="reader_untitled_post">(Untitled)</string>
