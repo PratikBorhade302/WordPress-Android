@@ -4076,4 +4076,454 @@
             column="71"/>
     </issue>
 
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="../WordPress/src/main/res/layout/activity_log_list_fragment.xml"
+            line="36"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.AutoResizeTextView`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="            &lt;org.wordpress.android.util.widgets.AutoResizeTextView"
+        errorLine2="            ^">
+        <location
+            file="../WordPress/src/main/res/layout/comment_action_footer.xml"
+            line="38"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.AutoResizeTextView`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="            &lt;org.wordpress.android.util.widgets.AutoResizeTextView"
+        errorLine2="            ^">
+        <location
+            file="../WordPress/src/main/res/layout/comment_action_footer.xml"
+            line="68"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.AutoResizeTextView`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="            &lt;org.wordpress.android.util.widgets.AutoResizeTextView"
+        errorLine2="            ^">
+        <location
+            file="../WordPress/src/main/res/layout/comment_action_footer.xml"
+            line="97"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.AutoResizeTextView`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="            &lt;org.wordpress.android.util.widgets.AutoResizeTextView"
+        errorLine2="            ^">
+        <location
+            file="../WordPress/src/main/res/layout/comment_action_footer.xml"
+            line="127"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="        &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="        ^">
+        <location
+            file="../WordPress/src/main/res/layout/filtered_list_component.xml"
+            line="43"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="../WordPress/src/main/res/layout/history_list_fragment.xml"
+            line="9"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.AutoResizeTextView`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="                &lt;org.wordpress.android.util.widgets.AutoResizeTextView"
+        errorLine2="                ^">
+        <location
+            file="../WordPress/src/main/res/layout/me_fragment.xml"
+            line="194"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.AutoResizeTextView`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="                &lt;org.wordpress.android.util.widgets.AutoResizeTextView"
+        errorLine2="                ^">
+        <location
+            file="../WordPress/src/main/res/layout/me_fragment.xml"
+            line="213"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="../WordPress/src/main/res/layout/media_grid_fragment.xml"
+            line="10"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="../WordPress/src/main/res/layout/media_picker_fragment.xml"
+            line="20"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="/../WordPress/src/main/res/layout/notifications_list_fragment_page.xml"
+            line="10"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="        &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="        ^">
+        <location
+            file="../WordPress/src/main/res/layout/pages_fragment.xml"
+            line="15"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="../WordPress/src/main/res/layout/plans_list_fragment.xml"
+            line="8"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="../WordPress/src/main/res/layout/plugin_list_fragment.xml"
+            line="8"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="../WordPress/src/main/res/layout/post_list_fragment.xml"
+            line="9"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="        &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="        ^">
+        <location
+            file="../WordPress/src/main/res/layout/reader_activity_comment_list.xml"
+            line="38"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="../WordPress/src/main/res/layout/reader_discover_fragment_layout.xml"
+            line="43"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="        &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="        ^">
+        <location
+            file="../WordPress/src/main/res/layout/reader_fragment_post_detail.xml"
+            line="16"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="        &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="        ^">
+        <location
+            file="../WordPress/src/main/res/layout/select_categories.xml"
+            line="15"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="../WordPress/src/main/res/layout/site_picker_activity.xml"
+            line="34"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="        &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="        ^">
+        <location
+            file="../WordPress/src/main/res/layout/stats_detail_fragment.xml"
+            line="13"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="        &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="        ^">
+        <location
+            file="../WordPress/src/main/res/layout/stats_fragment.xml"
+            line="13"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="            &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="            ^">
+        <location
+            file="../WordPress/src/main/res/layout/stats_view_all_fragment.xml"
+            line="18"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingClass"
+        severity="Error"
+        message="Class referenced in the layout file, `org.wordpress.android.util.widgets.CustomSwipeRefreshLayout`, was not found in the project or the libraries"
+        category="Correctness"
+        priority="8"
+        summary="Missing registered class"
+        explanation="If a class is referenced in the manifest or in a layout file, it must also exist in the project (or in one of the libraries included by the project. This check helps uncover typos in registration names, or attempts to rename or move classes without updating the XML references &#xA;properly."
+        url="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        urls="http://developer.android.com/guide/topics/manifest/manifest-intro.html"
+        errorLine1="    &lt;org.wordpress.android.util.widgets.CustomSwipeRefreshLayout"
+        errorLine2="    ^">
+        <location
+            file="../WordPress-Android/WordPress/src/main/res/layout/theme_browser_fragment.xml"
+            line="18"
+            column="5"/>
+    </issue>
+
 </issues>
